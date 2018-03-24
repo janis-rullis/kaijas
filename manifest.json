@@ -3,7 +3,7 @@
 	"name": "Džima midzenis",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "portrait",
+	"orientation": "landscape",
 	"background_color": "#666666",
 	"theme_color": "#666666",
 	"icons": [
