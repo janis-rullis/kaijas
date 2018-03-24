@@ -2,8 +2,8 @@
 	"short_name": "Kaijas",
 	"name": "Džima midzenis",
 	"start_url": "index.html",
-	"display": "standalone",
-	"orientation": "landscape",
+	"display": "fullscreen",
+	"orientation": "portrait",
 	"background_color": "#666666",
 	"theme_color": "#666666",
 	"icons": [
