@@ -4,7 +4,7 @@
 {
 position:absolute; /* multi-tab deformaciju del, skat fix pos+multi-tab*/
 top:0.5%;
-height:3%;
+height:29px;
 width:2%;
 z-index:2;
 cursor: pointer;
