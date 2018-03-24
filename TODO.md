@@ -1,3 +1,5 @@
+* remove autoplay and add controls if mob
+
 ## Add more content to README.
 
 * More about the idea.
