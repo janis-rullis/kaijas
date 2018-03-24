@@ -1,4 +1,6 @@
-* remove autoplay and add controls if mob
+* remove autoplay and add controls if mob. 
+* what is req for the web app to appear in app list light high tide? 
+https://developers.google.com/web/progressive-web-apps/checklist
 
 ## Add more content to README.
 
