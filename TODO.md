@@ -12,7 +12,6 @@ https://developers.google.com/web/progressive-web-apps/checklist
 
 ## Bed / Dreams
 
-* Sharper.
-* Include more dream like content, surreal action, cartoonish, weird elements.
+* Include more dream like content, surreal action, cartoonish, weird elements. Like Berserk Arc 3.
 * Adjust music more to the content.
 * remove autoplay and add controls if mob. 

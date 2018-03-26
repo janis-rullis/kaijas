@@ -2,7 +2,7 @@
 {
 position:absolute;
 z-index:0;
-width:150px;
+width:200px;
 display:none;
 }
 
@@ -21,22 +21,20 @@ left:10%;
 
 #dream3
 {
-top:90%;
+top:84%;
 left:10%;
 }
 
 #dream4
 {
-top:90%;
+top:84%;
 right:10%;
 }
 
 div#player
 {
 position:absolute;
-height:3%;
-width:2%;
-bottom:0;
+bottom:0%;
 }
 
 #player1
