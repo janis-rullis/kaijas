@@ -6,6 +6,7 @@
 
 ## Other
 * Add screenshots.
+* Allow to drag gulls in mobile.
 * what is req for the web app to appear in app list light high tide? 
 https://developers.google.com/web/progressive-web-apps/checklist
 
