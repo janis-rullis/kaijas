@@ -1,7 +1,3 @@
-* remove autoplay and add controls if mob. 
-* what is req for the web app to appear in app list light high tide? 
-https://developers.google.com/web/progressive-web-apps/checklist
-
 ## Add more content to README.
 
 * More about the idea.
@@ -11,3 +7,12 @@ https://developers.google.com/web/progressive-web-apps/checklist
 
 ## Other
 * Add screenshots.
+* what is req for the web app to appear in app list light high tide? 
+https://developers.google.com/web/progressive-web-apps/checklist
+
+## Bed / Dreams
+
+* Sharper.
+* Include more dream like content, surreal action, cartoonish, weird elements.
+* Adjust music more to the content.
+* remove autoplay and add controls if mob. 
