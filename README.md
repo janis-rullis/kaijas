@@ -17,5 +17,5 @@ back in 2008.
 
 * Displays have higher resolution, so in some places content was blurry, stretched 
 or small. 
-* Replaced flash audio played with HTML5 audio tag.
+* Replaced flash audio player with HTML5 audio tag.
 * Adjusted mobile device experience (with manifest.json) when added to home-screen.
