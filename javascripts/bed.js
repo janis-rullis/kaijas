@@ -28,6 +28,11 @@ function setupEvents()
 		window.location = 'bed.html';
 	})
 
+	document.onmouseup = mouseup;
+	startDream('dream1', 2);
+	startDream('dream2', 39);
+	startDream('dream3', 150);
+	
 	// If mobile, display audio controls and disable autoplay.
 	audio = document.getElementById("audio");
 	if (typeof audio !== 'undefined' && audio !== null) {
@@ -37,11 +42,6 @@ function setupEvents()
 			audio.setAttribute('controls','');
 		}
 	}
-
-	document.onmouseup = mouseup;
-	startDream('dream1', 2);
-	startDream('dream2', 39);
-	startDream('dream3', 150);
 }
 
 function startDream(id, after_s) {
